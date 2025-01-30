@@ -12,10 +12,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "0.0.0-experimental.75b9c6babc2f67877cfc879041cfff9fb966e742",
+    "@strapi/plugin-cloud": "0.0.0-experimental.a4df7ad5ff6a4366442059f7c067a0424ba1e2f9",
     "@strapi/plugin-seo": "^2.0.4",
-    "@strapi/plugin-users-permissions": "0.0.0-experimental.75b9c6babc2f67877cfc879041cfff9fb966e742",
-    "@strapi/strapi": "0.0.0-experimental.75b9c6babc2f67877cfc879041cfff9fb966e742",
+    "@strapi/plugin-users-permissions": "0.0.0-experimental.a4df7ad5ff6a4366442059f7c067a0424ba1e2f9",
+    "@strapi/strapi": "0.0.0-experimental.a4df7ad5ff6a4366442059f7c067a0424ba1e2f9",
     "better-sqlite3": "11.3.0",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
